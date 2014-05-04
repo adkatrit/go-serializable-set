@@ -1,5 +1,5 @@
-[![Build Status](https://api.travis-ci.org/adkatrit/go-serializable-set.png)](https://travis-ci.org/adkatrit/go-serializable-set)
-go-serializable-set
+
+go-serializable-set [![Build Status](https://api.travis-ci.org/adkatrit/go-serializable-set.png)](https://travis-ci.org/adkatrit/go-serializable-set)
 ===================
 
 very simple typed sets without the use of interfaces.
